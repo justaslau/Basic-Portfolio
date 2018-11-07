@@ -38,11 +38,11 @@ In this assignment, you'll build a professional portfolio site using HTML/CSS. T
 
 5. Reference these screenshots for your site:
 
-   ![Portfolio About](Images/portfolio-about-me.png)
+   `![Portfolio About](Images/portfolio-about-me.png)`
 
-   ![Portfolio Contact](Images/portfolio-contact.png)
+   `![Portfolio Contact](Images/portfolio-contact.png)`
 
-   ![Portfolio Gallery](Images/portfolio-gallery.png)
+   `![Portfolio Gallery](Images/portfolio-gallery.png)`
 
    * **IMPORTANT** Your site's layout must match the designs in these screenshots. You'll find the specs for these designs below.
 
@@ -95,7 +95,7 @@ In this assignment, you'll build a professional portfolio site using HTML/CSS. T
    * The entire content and the main section content area is `960px` wide.
    * Pro-tip: Use the [Page Ruler](https://chrome.google.com/webstore/detail/page-ruler/jlpkojjdgbllmedoapgfodplfhcbnbpn/related?hl=en) extension to measure the size of elements.
 
-   ![Recommended Dimensions](Images/Recommended-Dimensions.png)
+  ` ![Recommended Dimensions](Images/Recommended-Dimensions.png)`
 
 ### Bonus
 
