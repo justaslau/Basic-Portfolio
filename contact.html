@@ -3,7 +3,7 @@
 <html lang="en-us">
 
     <head>
-        <title>Contact - Justas Lauzinskas</title>
+        <title>Home - Justas Lauzinskas</title>
         <meta charset="UTF-8">
         <link rel="icon" href="assets/images/favicon.ico"> 
         <meta name="descreption" content="GA Tech Bootcamp First Homework">
@@ -13,12 +13,12 @@
     </head>
 
     <body>
-        <div id="page">
+        
             <header>
-                <div class="wrapper">
-                     <div class="logo">
+                <div class="inner">
+                    <div class="logo">
                         <a href="index.html"><h1>Justas Lauzinskas</h1></a>
-                     </div>
+                    </div>
                     <nav>
                         <ul>
                             <li><a href="index.html">About</a></li>
@@ -29,25 +29,25 @@
                 </div>
             </header>
 
-            <div id="content">
-                    <div class="inner">
-    
-                        <h2>Contact</h2>
-                        <hr/>
-                        <p>
-                            Coming soon.
-                        </p>
-                    </div>
+            <section class="content">
+                <h2>Contact</h2>
+                <hr/>
+                <form action="#" method="POST">
+                    <label for="fname">Name</label>
+                    <input type="text" id="fname" name="fname" placeholder="Justas Lauzinskas">
+                    <label for="email">Email</label>
+                    <input type="text" id="email" name="email" placeholder="justaslau@gmail.com">
+                    <label for="message">Message</label>
+                    <textarea id="message" name="message" rows="10" cols="50"></textarea>
+                    <input type="submit" value="Submit">
+                </form>
+            </section>
+
+            <footer>
+                <div class="inner">
+                    <p>&copy; 2018 All rights reserved.</p>
                 </div>
-
- 
-        </div>
+            </footer>
+            
     </body>
-
-    <footer>
-        <div class="inner">
-            <p>&copy; <script>document.write(new Date().getFullYear())</script> All rights reserved.</p>
-        </div>
-    </footer>
-
 </html>
